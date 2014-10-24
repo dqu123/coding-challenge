@@ -1,0 +1,286 @@
+Hangtime General Statistics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Number of people participating in Hangtime events: 9178
+Number of attended_events: 122
+Total number of events: 233
+Average number of people at all events: 39
+Average number of people at participated events: 75
+
+Top ten events by participation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Event 1: EPR 300, 1212 participants. Location: EPR
+Event 2: The 1st Annual San Francisco Bloody Mary Festival, 853 participants. Location: The Public Works SF
+Event 3: KAYTRANADA, 701 participants. Location: 1015 Folsom
+Event 4: Latino Heritage Month Celebration In SF, 528 participants. Location: Brava Theater Center
+Event 5: Living in Transition, 340 participants. Location: Ian Ross Gallery
+Event 6: ARTY, 326 participants. Location: Ruby Skye
+Event 7: The 1st Annual San Francisco Bloody Mary Festival, 290 participants. Location: Public Works
+Event 8: San Francisco Premiere of Jeremy Jones' Higher, 264 participants. Location: Palace of Fine Arts
+Event 9: Happy Hour at Hawthorn, 250 participants. Location: Hawthorn Lounge
+Event 10: Alignment with the Leadership Team- Eventbrite Co-Founder Julia Hartz and VP HR Emily Couey, 229 participants. Location: Eventbrite
+
+Sample Query: SELECT Events in San Francisco Public Library
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Event 1: Photographer Janet Delaney in Conversation with Architect Mark Hogan, 54 participants. Date: 2014-09-24T18:30:00.000Z
+Event 2: Mapping Education's Future: A MEEP Community Learning Lab!, 22 participants. Date: 2014-09-27T14:00:00.000Z
+
+Chronological Data
+~~~~~~~~~~~~~~~~~~
+Dates range from 2014-03-26T21:00:00.000Z to 2014-09-30T21:00:00.000Z
+Interval: 26 weeks
+Average events per week: 8
+Number of non-September dates: 2
+
+Sample Query: March Events
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Event 1: EPR 300, 1212 participants. Date: 2014-03-26T21:00:00.000Z
+
+Locations of attended events by popularity
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Location 1: EPR
+Location 2: The Public Works SF
+Location 3: 1015 Folsom
+Location 4: Brava Theater Center
+Location 5: Ian Ross Gallery
+Location 6: Ruby Skye
+Location 7: Public Works
+Location 8: Palace of Fine Arts
+Location 9: Hawthorn Lounge
+Location 10: Eventbrite
+Location 11: Sofitel San Francisco
+Location 12: 1015 Folsom
+Location 13: Brava Theater
+Location 14: Viracocha
+Location 15: Twitter, Inc.
+Location 16: Roxie Theatre
+Location 17: Qilombo
+Location 18: 1192 Folsom
+Location 19: ECOsystm
+Location 20: Powell and Market Streets
+Location 21: The Depot SF
+Location 22: Simpson Gumpertz 
+Location 23: Mighty
+Location 24: Viracocha
+Location 25: UNDERGROUND SF
+Location 26: San Francisco Public Library, Main (Koret Auditorium - Lower Level)
+Location 27: The Warfield
+Location 28: Ninth Street Independent Film Center
+Location 29: Hawthorn
+Location 30: Yelp Headquarters
+Location 31: Kadist SF
+Location 32: Founders Space
+Location 33: Great American Music Hall
+Location 34: Hawthorn Lounge
+Location 35: Concordia Argonaut
+Location 36: Swell Gallery
+Location 37: Novela
+Location 38: The Bubble Lounge
+Location 39: Forio
+Location 40: San Francisco Public Library
+Location 41: The SF Women's Building - Audre Lorde Room
+Location 42: MERCER
+Location 43: San Francisco, CA
+Location 44: Mercer SF
+Location 45: Ruby Skye
+Location 46: SoMa StrEat Food Park
+Location 47: Impact Hub San Francisco 
+Location 48: The Public Works SF
+Location 49: Hattery
+Location 50: The Emerald Tablet
+Location 51: The Westin San Francisco Market Street
+Location 52: NEMA
+Location 53: Hawthorn
+Location 54: Impact Hub Bay Area
+Location 55: WeWork Golden Gate
+Location 56: 111 Minna Gallery
+Location 57: Bloc HQ.
+Location 58: Magdalena Banquet Hall
+Location 59: Capital One 360 Café – San Francisco
+Location 60: 18 Reasons
+Location 61: San Francisco Public Library
+Location 62: Ninth Street Independent Film Center
+Location 63: F8
+Location 64: Atelier Advisors
+Location 65: Sports Basement - Bryant Street Store Grotto (1st Floor)
+Location 66: ChurchKey
+Location 67: Goethe Institut San Francisco (German Cultural Center)
+Location 68: Zuni Cafe
+Location 69: Erotic Reading Circle
+Location 70: 18 Reasons
+Location 71: Rickshaw Stop
+Location 72: Make-Out Room
+Location 73: Roadworks Steamroller Printing Festival
+Location 74: Fort Mason
+Location 75: MaduSalon
+Location 76: San Francisco Buddhist Center
+Location 77: SF Eagle
+Location 78: Turquoise Yantra Grotto
+Location 79: Stage Werx
+Location 80: General Assembly San Francisco
+Location 81: SFAI Swell Gallery
+Location 82: Audio San Francisco
+Location 83: Forest Hill Clubhouse
+Location 84: San Francisco Police Officers Association
+Location 85: Neck of the Woods
+Location 86: San Francisco, CA
+Location 87: World Affairs Council of Northern California
+Location 88: Big Sur
+Location 89: San Francisco Buddhist Center
+Location 90: Founders Space - Accelerator + Incubator
+Location 91: Viracocha 
+Location 92: Monarch
+Location 93: Brainwash Cafe
+Location 94: Brannan AAU
+Location 95: Mechanics' Institute - 4th Floor Board Room
+Location 96: House Where Love Lives
+Location 97: Red Poppy Art House
+Location 98: Press Club
+Location 99: The Westin San Francisco Market Street
+Location 100: Belcampo
+Location 101: Zuni Cafe
+Location 102: Mozilla SF
+Location 103: Hotel Utah Saloon
+Location 104: Forio
+Location 105: San Francisco Zen Center
+Location 106: Supperclub SF
+Location 107: Mighty
+Location 108: Mayes
+Location 109: 50 Mason Social House
+Location 110: Stage Werx Theatre
+Location 111: Monarch
+Location 112: Drake SF
+Location 113: MERCER
+Location 114: Hotel Rex
+Location 115: Atelier Advisors
+Location 116: City Lights Booksellers & Publishers
+Location 117: The Punch Line San Francisco
+Location 118: San Francisco, CA
+Location 119: Bender's Bar and Grill
+Location 120: AT&T Park
+Location 121: AT&T Park
+Location 122: AT&T Park
+
+Chronological listing of attended events
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Event 1: EPR 300, 1212 participants. Date: 2014-03-26T21:00:00.000Z
+Event 2: The 1st Annual San Francisco Bloody Mary Festival, 853 participants. Date: 2014-09-28T13:00:00.000Z
+Event 3: KAYTRANADA, 701 participants. Date: 2014-09-25T22:00:00.000Z
+Event 4: Latino Heritage Month Celebration In SF, 528 participants. Date: 2014-09-24T18:30:00.000Z
+Event 5: Living in Transition, 340 participants. Date: 2014-09-24T18:00:00.000Z
+Event 6: ARTY, 326 participants. Date: 2014-09-26T21:00:00.000Z
+Event 7: The 1st Annual San Francisco Bloody Mary Festival, 290 participants. Date: 2014-09-28T13:00:00.000Z
+Event 8: San Francisco Premiere of Jeremy Jones' Higher, 264 participants. Date: 2014-09-24T18:00:00.000Z
+Event 9: Happy Hour at Hawthorn, 250 participants. Date: 2014-09-30T18:00:00.000Z
+Event 10: Alignment with the Leadership Team- Eventbrite Co-Founder Julia Hartz and VP HR Emily Couey, 229 participants. Date: 2014-09-24T17:30:00.000Z
+Event 11: GLOW EXCLUSIVE  POOL-SIDE DAY PARTY  || WITH VEGAS REHAB DJ LOZCI, 172 participants. Date: 2014-07-05T14:00:00.000Z
+Event 12: This Thursday! KAYTRANADA, 164 participants. Date: 2014-09-25T22:00:00.000Z
+Event 13: KQED Arts: Celebration of the art, culture and vitality of the Latino Community, 144 participants. Date: 2014-09-24T18:30:00.000Z
+Event 14: YOU'RE GOING TO DIE: Poetry, Prose & Everything Goes…, 134 participants. Date: 2014-09-24T20:00:00.000Z
+Event 15: "I'm a Startup": Bringing Together SF Community and Technology Leaders, 116 participants. Date: 2014-09-24T18:00:00.000Z
+Event 16: Docunight #8 (San Francisco): Be Like Others, 113 participants. Date: 2014-09-24T19:00:00.000Z
+Event 17: Bay Area, CA Solidarity for Jalil Muntaqim, 113 participants. Date: 2014-09-24T19:00:00.000Z
+Event 18: F8 - 2 Year Anniversary w/ Natasha Kmeto, Rojai Live, B Bravo, Dailon, Sam Supa, + More, 112 participants. Date: 2014-09-27T20:00:00.000Z
+Event 19: Networking the Transformational Ecosystem, 109 participants. Date: 2014-09-24T18:00:00.000Z
+Event 20: NO to US Bombing and Intervention in Syria, 105 participants. Date: 2014-09-24T17:30:00.000Z
+Event 21: B.A.R.F. Presents: A Depot Show!, 104 participants. Date: 2014-09-24T18:00:00.000Z
+Event 22: SGH SAN FRANCISCO - Evening Seminar Series, 104 participants. Date: 2014-09-24T16:30:00.000Z
+Event 23: Tonite! HYPERDUB 10 Tour w/Kode9, DJ Spinn, Taso, Scratcha DVA, 93 participants. Date: 2014-09-24T20:00:00.000Z
+Event 24: Red Light Lit presents: COSMOS, 89 participants. Date: 2014-09-26T20:00:00.000Z
+Event 25: Friends with Benefits ft. The Janky Barge DJs, 87 participants. Date: 2014-09-24T22:00:00.000Z
+Event 26: A+C 14: Film #4 | The Queen of Versailles (2012), 87 participants. Date: 2014-09-24T17:30:00.000Z
+Event 27: Wu-Tang Clan, 86 participants. Date: 2014-09-27T20:00:00.000Z
+Event 28: Pictoclik Film Fair, 83 participants. Date: 2014-09-27T14:30:00.000Z
+Event 29: Nate Mezmer Album Release & Birthday Party, 79 participants. Date: 2014-09-25T21:00:00.000Z
+Event 30: Cloud meets Internet of Things, 73 participants. Date: 2014-09-24T19:00:00.000Z
+Event 31: AN EVENING WITH ROBERT ZHAO RENHUI, 72 participants. Date: 2014-09-24T18:00:00.000Z
+Event 32: Founders Space Angel Pitch, 72 participants. Date: 2014-09-25T18:00:00.000Z
+Event 33: Eddie Roberts & Positive Legacy Present The Payback: The New Mastersounds & Friends / The Nth Power - a Benefit for Compass Family Services: Supporting SF's Vulnerable & Homeless Familes for the Last 100 Years, 71 participants. Date: 2014-09-26T20:00:00.000Z
+Event 34: Nate Mezmer Album Release & Birthday Party, 71 participants. Date: 2014-09-25T21:00:00.000Z
+Event 35: Jew-Years Eve Party, 70 participants. Date: 2014-09-24T17:00:00.000Z
+Event 36: BADLANDS, 67 participants. Date: 2014-09-24T19:00:00.000Z
+Event 37: Stirred, Shaken, & Shucked at Novela, 65 participants. Date: 2014-09-29T16:00:00.000Z
+Event 38: Whiskey Tasting Benefit: Community Housing Partnership, 65 participants. Date: 2014-09-24T17:30:00.000Z
+Event 39: RETAIL TECH SUMMIT [San Francisco Fashion Week ® 2014] #SFFW14, 59 participants. Date: 2014-09-24T18:00:00.000Z
+Event 40: Photographer Janet Delaney in Conversation with Architect Mark Hogan, 54 participants. Date: 2014-09-24T18:30:00.000Z
+Event 41: Breaking New Ground: Process Innovation at UCSF Medical Center's Mission Bay Campus, 53 participants. Date: 2014-09-24T17:30:00.000Z
+Event 42: Q3 End of Quarter Party in SF, 52 participants. Date: 2014-09-27T21:45:00.000Z
+Event 43: Citydash San Francisco, 51 participants. Date: 2014-09-27T14:00:00.000Z
+Event 44: End of Quarter Party SF, 47 participants. Date: 2014-09-27T22:00:00.000Z
+Event 45: Arty, 45 participants. Date: 2014-09-26T21:00:00.000Z
+Event 46: The Physics of Baseball, 45 participants. Date: 2014-09-24T19:00:00.000Z
+Event 47: World Tourism Day *Special Event*, 45 participants. Date: 2014-09-25T18:30:00.000Z
+Event 48: As You Like It & PW Present: Marcel Dettman & Matrixxman, 43 participants. Date: 2014-09-25T21:00:00.000Z
+Event 49: The State of It All: Sean Wilsey in conversation with Pat Montandon, 43 participants. Date: 2014-09-24T19:00:00.000Z
+Event 50: ICAROS: Shamanic Stitchcraft: Indigenous Ayahuasca Art, 42 participants. Date: 2014-09-24T19:00:00.000Z
+Event 51: QS World MBA Tour - San Francisco, 41 participants. Date: 2014-09-27T12:30:00.000Z
+Event 52: SMCSFO Season Launch + Happy Hour, 39 participants. Date: 2014-09-24T18:00:00.000Z
+Event 53: Happy Hour at Hawthorn Lounge, 38 participants. Date: 2014-09-30T18:00:00.000Z
+Event 54: World Tourism Day Salon, 36 participants. Date: 2014-09-25T18:30:00.000Z
+Event 55: Enhance Your Social Intelligence, 33 participants. Date: 2014-09-24T18:45:00.000Z
+Event 56: Repair, Replace & Restore The National AIDS Memorial Grove, 32 participants. Date: 2014-09-24T17:30:00.000Z
+Event 57: Swift Workshop for JavaScript Programmers, 31 participants. Date: 2014-09-24T18:30:00.000Z
+Event 58: Rosh Hashanah Celebration 2014, 29 participants. Date: 2014-09-24T18:30:00.000Z
+Event 59: Figure Of Speech Comedy @ CapitalOne 360, 25 participants. Date: 2014-09-29T18:30:00.000Z
+Event 60: Brunch Club with A Purified Life, 23 participants. Date: 2014-09-27T11:00:00.000Z
+Event 61: Mapping Education's Future: A MEEP Community Learning Lab!, 22 participants. Date: 2014-09-27T14:00:00.000Z
+Event 62: Pictoclik Film Fair, 21 participants. Date: 2014-09-27T14:30:00.000Z
+Event 63: F8 - 2 Year Anniversary w/ Natasha Kmeto, Rojai Live, B Bravo, Sam Supa, + More, 21 participants. Date: 2014-09-27T20:00:00.000Z
+Event 64: Think + Drink: Finance Meets Fashion, 21 participants. Date: 2014-09-26T18:00:00.000Z
+Event 65: SF Swappers September Food Swap!, 20 participants. Date: 2014-09-24T18:30:00.000Z
+Event 66: Beer With Soul, 19 participants. Date: 2014-09-24T19:00:00.000Z
+Event 67: WWI Film Series at Goethe: "14 - Diaries of the Great War I", Part one, 19 participants. Date: 2014-09-24T18:30:00.000Z
+Event 68: September PepperDINERS Northern California, 19 participants. Date: 2014-09-25T18:00:00.000Z
+Event 69: Sex Still Spoken Here Book Launch!, 18 participants. Date: 2014-09-24T19:30:00.000Z
+Event 70: Brunch Club with A Purified Life, 18 participants. Date: 2014-09-27T11:00:00.000Z
+Event 71: TOTAL SLACKER / PAWS / FLASHLIGHTS at Rickshaw Stop, 16 participants. Date: 2014-09-24T20:00:00.000Z
+Event 72: International Freakout A Go-Go!!!, 16 participants. Date: 2014-09-24T22:00:00.000Z
+Event 73: Roadworks Steamroller Printing Festival 2014, 16 participants. Date: 2014-09-28T11:00:00.000Z
+Event 74: Big Book Sale 2014, 15 participants. Date: 2014-09-24T16:00:00.000Z
+Event 75: A MaduSalon Special Event, 15 participants. Date: 2014-09-24T17:00:00.000Z
+Event 76: All-Day Yoga Fest, 15 participants. Date: 2014-09-27T10:00:00.000Z
+Event 77: Loaded @ SF Eagle Fri Sept 26, 14 participants. Date: 2014-09-26T20:00:00.000Z
+Event 78: Birgit Ulher & Tim Perkis, 14 participants. Date: 2014-09-24T20:00:00.000Z
+Event 79: The Lady Jam, 14 participants. Date: 2014-09-29T20:00:00.000Z
+Event 80: Changemakers Under 30: James Beshara- Tilt CEO, 14 participants. Date: 2014-09-24T18:30:00.000Z
+Event 81: Badlands, 14 participants. Date: 2014-09-24T19:00:00.000Z
+Event 82: THE M MACHINE | Audio | Friday September 26th, 13 participants. Date: 2014-09-26T21:30:00.000Z
+Event 83: Court of Honor, w/ Summer Camp Achievements, 13 participants. Date: 2014-09-24T18:15:00.000Z
+Event 84: Friends of Public Safety in Support of David Chiu for Assembly, 11 participants. Date: 2014-09-24T17:30:00.000Z
+Event 85: Open Mic Night (Feat. Spendthrift), 11 participants. Date: 2014-09-24T19:00:00.000Z
+Event 86: BenchMark in San Francisco, 9 participants. Date: 2014-09-24T19:30:00.000Z
+Event 87: Alternative Futures: The World in 2030, 8 participants. Date: 2014-09-24T19:00:00.000Z
+Event 88: Dance Eat Sing Party & Playshop with Lisa Goettel & Jocelyn Gordon, 8 participants. Date: 2014-09-25T02:00:00.000Z
+Event 89: All-Day Yoga Fest Fundraiser For Jai Bhim International, 8 participants. Date: 2014-09-27T10:00:00.000Z
+Event 90: Founders Space Angel Pitch, 7 participants. Date: 2014-09-25T18:00:00.000Z
+Event 91: Red Light Lit: COSMOS, 7 participants. Date: 2014-09-26T20:00:00.000Z
+Event 92: Sound Department 012 : Lee Burton (Amam/Klik) at Monarch, 6 participants. Date: 2014-09-27T21:00:00.000Z
+Event 93: "Cerebral Stew" Comedy Showcase at the BrainWash!, 6 participants. Date: 2014-09-24T20:00:00.000Z
+Event 94: GLS Landscape Architecture (From: San Francisco & Seattle), 6 participants. Date: 2014-09-24T18:30:00.000Z
+Event 95: The Proust Group: In Search of Lost Time Reading & Discussion Group, 6 participants. Date: 2014-09-24T17:30:00.000Z
+Event 96: Garden Party for Tuesday's Child on Wednesday, 5 participants. Date: 2014-09-24T19:00:00.000Z
+Event 97: Pollination I: Cine+Más San Francisco Latino Film Festival, 5 participants. Date: 2014-09-24T19:00:00.000Z
+Event 98: Learn to "Taste Wine Like a Pro" at Press Club, 5 participants. Date: 2014-09-24T18:00:00.000Z
+Event 99: FREE: The World's Largest MBA Admissions Event comes to San Francisco!, 5 participants. Date: 2014-09-27T12:30:00.000Z
+Event 100: A+C 14: Food + Design in Polk Gulch | Belcampo + St. Frank Coffee (2 LUs), 5 participants. Date: 2014-09-24T15:00:00.000Z
+Event 101: September  PepperDINERS GAN NorCal, 4 participants. Date: 2014-09-25T18:00:00.000Z
+Event 102: Homebrew Website Club, 4 participants. Date: 2014-09-24T17:30:00.000Z
+Event 103: Rebecca Jensen Live at Hotel Utah Opening for Lera Lynn; Also Appearing: Tom Heyman, 4 participants. Date: 2014-09-27T21:00:00.000Z
+Event 104: " RETAIL TECH SUMMIT " : Product vs. Retail Innovation - San Francisco Fashion Industry [San Francisco Fashion Week ® 2014] #SFFW #SFFW14, 4 participants. Date: 2014-09-24T18:00:00.000Z
+Event 105: 8-Week Mindfulness Based Stress Reduction (MBSR) Course, 4 participants. Date: 2014-09-24T19:00:00.000Z
+Event 106: RED HOTS BURLESQUE: IN BED WITH SUPPERCLUB, 3 participants. Date: 2014-09-24T20:00:00.000Z
+Event 107: blasthaus presents GUI BORATTO (live), 3 participants. Date: 2014-09-25T21:00:00.000Z
+Event 108: USC Football @Mayes: USC vs. Oregon State, 3 participants. Date: 2014-09-27T19:30:00.000Z
+Event 109: Sat Sept 27! A Revival Of The Variety Show!l, 3 participants. Date: 2014-09-27T19:00:00.000Z
+Event 110: The Lady Jam - Hosted by Vagina Jones & Friends, 3 participants. Date: 2014-09-29T20:00:00.000Z
+Event 111: Monarch & Base Present: Matthias Meyer at Monarch, 2 participants. Date: 2014-09-25T21:00:00.000Z
+Event 112: Dating Outside the Box, 2 participants. Date: 2014-09-27T19:30:00.000Z
+Event 113: End of Quarter Party, 2 participants. Date: 2014-09-27T21:00:00.000Z
+Event 114: San Francisco - Ho Chi Minh Sister City Meetup -Trip To Asia Raffle, 2 participants. Date: 2014-09-24T17:30:00.000Z
+Event 115: Finance Meets Fashion, 2 participants. Date: 2014-09-26T18:00:00.000Z
+Event 116: MariNaomi, 2 participants. Date: 2014-09-24T19:00:00.000Z
+Event 117: PHIL HANLEY, 2 participants. Date: 2014-09-24T20:00:00.000Z
+Event 118: Networking the Transformational Ecosystem in San Francisco, 1 participants. Date: 2014-09-24T18:00:00.000Z
+Event 119: BOOMFEST/ 2014 - MAD MAMA & THE BONA FIDE FEW • PINEAPPLE PRINCESS • LOST PUPPYJENNZENNAPALOOZA, 1 participants. Date: 2014-09-27T21:00:00.000Z
+Event 120: San Diego Padres at San Francisco Giants, 1 participants. Date: 2014-09-25T19:15:00.000Z
+Event 121: San Diego Padres at San Francisco Giants, 1 participants. Date: 2014-09-26T19:15:00.000Z
+Event 122: San Diego Padres at San Francisco Giants, 1 participants. Date: 2014-09-27T13:05:00.000Z
