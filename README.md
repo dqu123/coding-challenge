@@ -1,7 +1,7 @@
 Hangtime Coding Challenge
 =========================
 
-David Qu Caltech Caltech of 2017
+David Qu Caltech Class of 2017
 --------------------------------
 
 Dear Selection Commitee,
